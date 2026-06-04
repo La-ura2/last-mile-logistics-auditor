@@ -69,11 +69,3 @@ st.markdown(f"""
 3. Implement performance improvement plan
 """)
 
-# Summary
-st.markdown("---")
-st.subheader("Key Metrics Summary")
-col1, col2, col3 = st.columns(3)
-col1.metric("Overall Late Rate", f"{state['late_percentage'].mean():.1f}%")
-col2.metric("Worst State", f"{state.iloc[0]['customer_state']} ({state.iloc[0]['late_percentage']:.1f}%)")
-col3.metric("Correlation", f"{corr:.3f}")
-
