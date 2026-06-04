@@ -5,9 +5,8 @@ I analyzed 96,478 delivered orders and found that remote states have much higher
 
 ## Project Links
 - **Link to Notebook:** https://colab.research.google.com/drive/1OK6LAKf4ZWv_TWxi-ghO8AqBvHPbxC1O?usp=sharing
-- **Link to Dashboard:**https://last-mile-logistics-auditor-rniel3bsf8zhpvyq6j3a96.streamlit.app/
-- **Link to Presentation:**https://canva.link/zbzy84xn0k2yw6z
-
+- **Link to Dashboard:** https://last-mile-logistics-auditor-rniel3bsf8zhpvyq6j3a96.streamlit.app/
+- **Link to Presentation:** https://canva.link/zbzy84xn0k2yw6z
 
 ## Technical specifications
 **Data Cleaning Steps**
